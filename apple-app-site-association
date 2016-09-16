@@ -1,11 +1,19 @@
 {
-	"applinks": {
+	"applinks": 
+	{
 		"apps": [],
-		"details": [
+		"details": 
+		[
 			{
 		                "appID": "CL3P89EX4V.com.aciworldwide.CardSwipe",
 				"paths": [ "/*" ]
 			}
 		]
-	}
+	},
+	
+	"activitycontinuation":
+	{
+    		"apps": ["CL3P89EX4V.com.aciworldwide.CardSwipe"]
+    	}
+    }
 }
