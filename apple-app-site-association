@@ -9,12 +9,6 @@
 				"paths": [ "*" ]
 			}
 		]
-	},
-	
-	"activitycontinuation":
-	{
-    		"apps": ["CL3P89EX4V.com.aciworldwide.CardSwipe"]
-    	}
+	}
     }
 }
-
