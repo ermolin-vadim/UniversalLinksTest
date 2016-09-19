@@ -6,7 +6,7 @@
 		[
 			{
 		                "appID": "CL3P89EX4V.com.aciworldwide.CardSwipe",
-				"paths": [ "*" ]
+				"paths": ["/arduino.html"]
 			}
 		]
 	}
