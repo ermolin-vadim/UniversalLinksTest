@@ -5,8 +5,8 @@
 		"details": 
 		[
 			{
-		                "appID": "CL3P89EX4V.com.aciworldwide.CardSwipe",
-				"paths": ["/iOSApp*"]
+		                "appID": "P3GGXM2B8A.com.officialpayments.SwipeCard",
+				"paths": ["*"]
 			}
 		]
 	}
