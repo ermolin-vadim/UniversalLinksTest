@@ -6,7 +6,7 @@
 		[
 			{
 		                "appID": "P3GGXM2B8A.com.officialpayments.SwipeCard",
-				"paths": ["*"]
+				"paths": ["/SwipeCard*"]
 			}
 		]
 	}
